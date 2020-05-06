@@ -3,3 +3,6 @@ This repository involves following machine learning algorithms written from scra
 2.K-Nearest Neighbor
 3.Principal component analysis
 4.K-Means Clustering
+About the data- 
+The attached CSV file contains close to 40K rows and 48 columns.
+The data is numeric and unscaled
